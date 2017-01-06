@@ -1,0 +1,11 @@
+[
+	{
+		"method": "post",
+		"url": "/upload",
+		"controller": "default",
+		"action": "uploadAvatar",
+		"permissions": [
+			"Anyone"
+		]
+	}
+]
